@@ -1,0 +1,3 @@
+
+    Prodotto: mela 
+    Quantità: 5
