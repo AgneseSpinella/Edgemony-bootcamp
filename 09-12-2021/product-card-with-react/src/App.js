@@ -10,10 +10,10 @@ import Button from './components/Button';
 
 function App() {
   return (
-<div className="App">
+  <div className="App">
       <header className="App-header">
         <Image/>
-        <Description title="Backpack 34$" content="With a concept desgined to be easy to understand, RAINS bridge the gap between geography and lifestyle"
+        <Description title="Backpack" price="34$" content="With a concept desgined to be easy to understand, RAINS bridge the gap between geography and lifestyle"
           section1="Colors" section2="Size"
         />
         <Button content="Add to cart"/>

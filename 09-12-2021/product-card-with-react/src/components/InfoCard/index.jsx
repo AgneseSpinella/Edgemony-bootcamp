@@ -1,8 +1,9 @@
 import React from 'react';
 
-const Description = ({ title, content, section1, section2 }) => (
+const Description = ({ title, price, content,  section1, section2 }) => (
   <div className="text-block">
     <h3 className="text-block__title">{title}</h3>
+    <h3 className="text-block__title">{price}</h3>
         <p className="text-block__content">{content}</p>
     <h3 className="text-block__section1">{section1}</h3>
         <div className='color-button'>
