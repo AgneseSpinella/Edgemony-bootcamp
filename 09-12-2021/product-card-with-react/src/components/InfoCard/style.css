@@ -1,0 +1,36 @@
+.text-block {
+    position: relative;
+    background-color: white;
+    width: 260px;
+    text-align: left;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 20px;
+    top: -50px;
+}
+
+/* Section 1 - 2 */
+
+.button__item{
+    padding: 2px;
+    margin: 10px;
+    border-radius: 50%;
+    height: 30px;
+    width: 30px;
+}
+
+.black {
+    background-color: black;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.grey {
+    background-color: grey;
+}
